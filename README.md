@@ -1,4 +1,4 @@
-## Online Shop - Darrelz
+## Online Shop Template - Darrelz
 -------------
 This is HTML - CSS Design Only for Darelz shop, using php for loop. So, you must run this file in web server
 
@@ -6,6 +6,7 @@ This is HTML - CSS Design Only for Darelz shop, using php for loop. So, you must
 #### Detail
 ------
 1. No DB Used
+2. This web require *bs3_dist* folder download from [here](https://github.com/axquired24/bs3_dist/) 
 3. Best view on Google Chrome (Not Supported on Microsoft Edge)
 
 ##### Credits : Albert Septiawan
